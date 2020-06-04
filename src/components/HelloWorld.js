@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 
-class HelloWorld extends React.Component {
+class TileContainer extends React.Component {
   render() {
     return (
       <div>
@@ -10,4 +10,4 @@ class HelloWorld extends React.Component {
   }
 }
 
-export default HelloWorld;
+export default TileContainer;
